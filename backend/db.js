@@ -1,12 +1,3 @@
-/*
-    Todo {
-        title: string,
-        description: string,
-        completed: boolean
-
-    }
-*/
-
 const mongoose = require('mongoose');
 const { number } = require('zod');
 const mongodbURL = "mongodb+srv://ritesh:perspecta123@cluster0.vct5r3y.mongodb.net/todos";
